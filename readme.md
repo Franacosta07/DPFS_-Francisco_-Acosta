@@ -47,6 +47,6 @@ imagenes de referencia:
 ![Referencia](/public/imagenesReferencia/grisino.png)
 ![Referencia](/public/imagenesReferencia/grisinoFooterSmart.jpg)
 ![Referencia](/public/imagenesReferencia/grisinoMenu.jpg)
-![Referencia](/public/imagenesReferencia/grisinoMenuSmart.png)
+![Referencia](/public/imagenesReferencia/grisinoMenuSmart.jpg)
 ![Referencia](/public/imagenesReferencia/grisinoSmart.jpg)
 
