@@ -34,4 +34,19 @@ imagenes:
 A DEFINIR.
 
 LOGO:
+
 ![logo](/public/img/NickiKidsLogo.png)
+
+
+imagenes de referencia:
+
+![Referencia](/public/imagenesReferencia/cheekyFooter.png)
+![Referencia](/public/imagenesReferencia/cheeky.png)
+![Referencia](/public/imagenesReferencia/cheekyFooterSmart.jpg)
+![Referencia](/public/imagenesReferencia/cheekySmart.jpg)
+![Referencia](/public/imagenesReferencia/grisino.png)
+![Referencia](/public/imagenesReferencia/grisinoFooterSmart.jpg)
+![Referencia](/public/imagenesReferencia/grisinoMenu.jpg)
+![Referencia](/public/imagenesReferencia/grisinoMenuSmart.png)
+![Referencia](/public/imagenesReferencia/grisinoSmart.jpg)
+
