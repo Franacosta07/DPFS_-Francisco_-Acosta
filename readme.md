@@ -25,9 +25,13 @@ Referencias para la creación del proyecto:
 
 
 Font-Family: Lato
+
 Font-size h1 (nombre pagina): 36px
+
 Font-size h2: 24px
+
 Font-size p (descripciones): 12px
+
 Font-size p (nombre producto): 16px
 
 paleta de colores:
